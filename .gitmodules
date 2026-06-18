@@ -5,6 +5,9 @@
 [submodule "dbplot"]
 	path = dbplot
 	url = https://github.com/edgararuiz/dbplot
+[submodule "pkgsite"]
+	path = pkgsite
+	url = https://github.com/edgararuiz/pkgsite
 [submodule "sparkxgb"]
 	path = sparkxgb
 	url = https://github.com/cran/sparkxgb
